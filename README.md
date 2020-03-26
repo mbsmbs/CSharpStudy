@@ -1,4 +1,4 @@
-# C-Study
+# C#-Study
 Study C# Programming Language
 
 # 1. Primitive Types and Expressions
