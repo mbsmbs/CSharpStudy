@@ -21,7 +21,7 @@ checked
    - Explicit Casting (manually) : converting a larger type to a smaller type.
       - double -> float -> long -> int -> char
 
- ## 4. Operators
+## 4. Operators
    - [C# Operators}(https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/)
    - Arithmetic Operators
    - Comparison Operators
@@ -29,3 +29,8 @@ checked
    - Logical Operators
    - Bitwise Operators
    
+## 5. Comments
+   - Single-line Comment : // some text
+   - Multiple-line comment : /* some
+                                  texts
+                             */
