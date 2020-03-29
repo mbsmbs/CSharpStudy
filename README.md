@@ -16,10 +16,10 @@ checked
 
 ## 3. Type Conversion : To assign a value of one data type to another type.
    - Implicit Casting (automatically) : converting a smaller type to a larger type.
-   - char -> int -> long -> float -> double
+      - char -> int -> long -> float -> double
 
    - Explicit Casting (manually) : converting a larger type to a smaller type.
-   - double -> float -> long -> int -> char
+      - double -> float -> long -> int -> char
 
  ## 4. Operators
    - [C# Operators}(https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/)
