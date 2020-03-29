@@ -1,11 +1,11 @@
 # C#-Study
 Study C# Programming Language
 
-# 1. Primitive Types and Expressions
+# A. Primitive Types and Expressions
 
-  - [C# Built-in types](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/built-in-types)
+ ## 1. [C# Built-in types](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/built-in-types)
   
-  - Overflowing:
+ ## 2. Overflowing:
 ```
 checked
 {
@@ -13,3 +13,19 @@ checked
     number = number + 1
 }
 ```
+
+## 3. Type Conversion : To assign a value of one data type to another type.
+   - Implicit Casting (automatically) : converting a smaller type to a larger type.
+   - char -> int -> long -> float -> double
+
+   - Explicit Casting (manually) : converting a larger type to a smaller type.
+   - double -> float -> long -> int -> char
+
+ ## 4. Operators
+   - [C# Operators}(https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/)
+   - Arithmetic Operators
+   - Comparison Operators
+   - Assignment Operators
+   - Logical Operators
+   - Bitwise Operators
+   
