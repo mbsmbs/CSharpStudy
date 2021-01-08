@@ -5,4 +5,4 @@ Study C# Programming Language
 
 # [Comment](https://github.com/mbsmbs/CSharpStudy/blob/master/Comment/Comment.md)
 
-# [Variable]()
+# [Variable & Primitive types]()
