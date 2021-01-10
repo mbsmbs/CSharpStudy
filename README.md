@@ -29,4 +29,6 @@ Study C# Programming Language
 
 # [Assert](https://github.com/mbsmbs/CSharpStudy/blob/master/Assert/Assert.md)
 
-# [Recursive Function]()
+# [Recursive Function](https://github.com/mbsmbs/CSharpStudy/blob/master/RecursiveFunction/RecursiveFunction.md)
+
+# [Random]()
