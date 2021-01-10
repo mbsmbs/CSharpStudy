@@ -42,3 +42,11 @@ if(passcode = userInput)    // 어떤 조건이 충족되면
   continue;                 // 이번횟수 무시하라
 }
 ```
+
+## do-while
+```c#
+do
+{
+  // 최소 한 번은 반드시 실행되는 코드
+} while(조건식); // 참이면 코드 반복
+```
