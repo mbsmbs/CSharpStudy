@@ -31,4 +31,4 @@ Study C# Programming Language
 
 # [Recursive Function](https://github.com/mbsmbs/CSharpStudy/blob/master/RecursiveFunction/RecursiveFunction.md)
 
-# [Random]()
+# [Random](https://github.com/mbsmbs/CSharpStudy/blob/master/Random/Random.md)
