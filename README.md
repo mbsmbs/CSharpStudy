@@ -24,3 +24,5 @@ Study C# Programming Language
 # [Multidimensional Array](https://github.com/mbsmbs/CSharpStudy/tree/master/MultidimensionalArray)
 
 # [Function](https://github.com/mbsmbs/CSharpStudy/blob/master/Function/Function.md)
+
+# [Enum]()
