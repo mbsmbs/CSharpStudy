@@ -25,4 +25,6 @@ Study C# Programming Language
 
 # [Function](https://github.com/mbsmbs/CSharpStudy/blob/master/Function/Function.md)
 
-# [Enum]()
+# [Enum](https://github.com/mbsmbs/CSharpStudy/blob/master/Enum/Enum.md)
+
+# [Assert]()
