@@ -21,3 +21,5 @@ string message1 = string.Format("Name: {0} / ID : {1}, name1, id1);
 ```c#
 $"안녕하세요 {name} 학생! 학생번호 {id}입니다."
 ```
+
+## string클래스에 다양한 메서드들이 있다.
