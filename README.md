@@ -33,4 +33,4 @@ Study C# Programming Language
 
 # [Random](https://github.com/mbsmbs/CSharpStudy/blob/master/Random/Random.md)
 
-# [Array in Array]()
+# [Array in Array](https://github.com/mbsmbs/CSharpStudy/blob/master/ArrayInArray/ArrayInArray.md)
