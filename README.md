@@ -47,4 +47,6 @@ Study C# Programming Language
 
 # [Collection](https://github.com/mbsmbs/CSharpStudy/blob/master/Collection/Collection.md)
 
-# [Foreach]()
+# [Foreach](https://github.com/mbsmbs/CSharpStudy/blob/master/Foreach/Foreach.md)
+
+# [var]()
