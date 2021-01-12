@@ -45,6 +45,6 @@ Study C# Programming Language
 
 # [Decimal](https://github.com/mbsmbs/CSharpStudy/blob/master/Decimal/Decimal.md)
 
-# [Collection]()
+# [Collection](https://github.com/mbsmbs/CSharpStudy/blob/master/Collection/Collection.md)
 
 # [Foreach]()
