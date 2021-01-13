@@ -39,3 +39,51 @@ public class Car
 - private : 클래스 안에서만 접근 가능
 - protected
 - internal
+
+
+### Property
+- 컴파일러가 알아서 getter/setter 함수를 만들어준다소 생각하자
+- 초기화 가능
+- 기본 : public
+```c#
+accessMod dataType propName{accessMod get; accessMod set;} = data;
+public string Owner {get; set;}
+public float Gas{get; private set;} - 10.0.f;
+public EGasType GasType{get; private set;}
+```
+
+## 멤버 작성 순서 :추천
+1. public 멤버 변수 / 프로퍼티
+2. private 멤버 변수
+3. 생성자
+4. public 멤버 함수
+5. private 멤버 함수
+
+
+## partial class
+- 큰 클래스를 여러개로 쪼깨서 저장
+- Human.Head.cs, Human.Hand.cs, Human.body.cs, Human.leg.cs
+```c#
+public partial class Human
+{
+   Head 관련 코드...
+}
+
+
+public partial class Human
+{
+   Hand 관련 코드...
+}
+
+
+public partial class Human
+{
+   Body 관련 코드...
+}
+
+
+public partial class Human
+{
+   Leg 관련 코드...
+}
+```
