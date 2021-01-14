@@ -87,3 +87,35 @@ public partial class Human
    Leg 관련 코드...
 }
 ```
+
+
+## static class
+- global
+- 클래스, 멤버 변수,멤버 함수에 사용 가능
+
+### 정적 멤버 변수에 경우 개체에 속하지 않고 클래스에 속함
+- 즉 모든 개체가 하나의 정적 멤버 변수를 공유 할 수 있다.
+
+### 정적 멤버 함수는 비정적 멤버 변수에 접근하지 못 함.
+
+### 정적 클래스는 정적 멤버만 가질 수 있음
+- new로 개체를 생성할 수 없음
+
+
+## Extension Method
+1. 정적 클래스를 만든다
+2. 확장 메서드를 작성한다. 반드시 static
+- 홛장 메서드의 텃 번째 인자는 함수에 넣고자 했던 클래스 이름을 적는다
+- 첫 번째 인자 앞에는 반드시 this를 붙인다.
+```c#
+public static class StringExtension
+{
+  public static int GetCount(this string message, char[] separators)
+  {
+  
+  }
+}
+```
+- 클래스에 함수를 추가하지 못할 때 사용
+ - 다른 사람 라이브러리 사용 시 소스 코드가 없을 때
+- 클래스형의 확장 메서드는 괜찮음
