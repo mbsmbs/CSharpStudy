@@ -53,4 +53,6 @@ Study C# Programming Language
 
 # [OOP](https://github.com/mbsmbs/CSharpStudy/blob/master/OOP/OOP.md)
 
-# [Value VS Reference]()
+# [Value VS Reference](https://github.com/mbsmbs/CSharpStudy/blob/master/ValueVSReference/ValueVSReference.md)
+
+# [Struct]()
